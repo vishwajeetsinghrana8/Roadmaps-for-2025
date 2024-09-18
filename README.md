@@ -1,4 +1,4 @@
-# **Python for Machine Learning 2024**
+# **Python for Machine Learning 2025**
 Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python's design philosophy emphasizes code readability, using significant indentation to structure the code, which makes it easy to learn and use.
 
 ### Key Features of Python:
